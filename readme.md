@@ -1,7 +1,4 @@
-echo "# 1600final" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/marco-raimondi/1600final.git
-  git push -u origin main
+Title
+Marco Raimondi
+summary
+description of target audience (who would read it)
