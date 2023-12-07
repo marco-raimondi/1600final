@@ -7,3 +7,6 @@
 3. The terminal should print out exactly what is in the quotation marks: Hello, World!
 4. Change what is in the quotations to say something else and see what happens when you run the program again. (ex. Console.WriteLine("This is a Test.");)
 5. This should give you a good idea of what the purpose of the WriteLine function is. You can even add more lines to print multiple things.
+
+
+[Continue to Step 5](Variables.md)
