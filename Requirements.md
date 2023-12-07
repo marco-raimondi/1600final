@@ -4,3 +4,6 @@ There are a few things that you need to make sure that you have before you can b
 * A Computer (PC or Mac)
     * Needs to be able to download files
 * Internet Access
+
+
+[Continue to Step 1](DownloadingVSCode.md)
