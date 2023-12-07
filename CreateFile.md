@@ -6,3 +6,6 @@
 3. Once the folder has been created, click on the "Terminal" tab, which should be either at the top of your screen or the window, and select "New Terminal".
 4. Inside of the terminal, type the command "dotnet new console --use-program-main". This will create a few things inside of your Hello World folder.
 5. Click on the Program.cs file that was created after running the command. A small window will pop up on the bottom left of the window asking to create more items, and you should click "Yes".
+
+
+[Continue to Step 4](HelloWorld.md)
