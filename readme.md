@@ -6,9 +6,9 @@ This tutorial will explain the very basics of C# including what to download, how
 
 ### Pages:
 * [Requirements](Requirements.md)
-* [Downloading Visual Studio Code](DownloadingVSCode.md)
-* [Installing C# and .NET](InstallingPrograms.md)
-* [Create Files](CreateFile.md)
-* [Hello World](HelloWorld.md)
-* [Variables](Variables.md)
-* [Combining Variables and Text](CombiningVariablesAndText.md)
+* [1. Downloading Visual Studio Code](DownloadingVSCode.md)
+* [2. Installing C# and .NET](InstallingPrograms.md)
+* [3. Create Files](CreateFile.md)
+* [4. Hello World](HelloWorld.md)
+* [5. Variables](Variables.md)
+* [6. Combining Variables and Text](CombiningVariablesAndText.md)
