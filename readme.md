@@ -1,4 +1,2 @@
-Title
-Marco Raimondi
-summary
-description of target audience (who would read it)
+# How to write a "Hello World" program in C#
+
