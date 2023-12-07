@@ -5,3 +5,5 @@
 1. Go to the [Visual Studio Code website](https://code.visualstudio.com/download). Here, you can choose the operating system that you have and download the program.
 2. Once you have the installer downloaded, open it and follow the instructions that it will give you. You should just accept all of the default settings too aside from the location, which is personal preference.
 3. When you finish using the installer, open the program.
+
+[Continue to Step 2](InstallingPrograms.md)
